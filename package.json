@@ -1,0 +1,14 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "iam learning react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "sudhir",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
